@@ -1,1 +1,1 @@
-# neural-nets
+Neural network practice and templates.
